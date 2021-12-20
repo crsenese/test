@@ -6,6 +6,8 @@ public class Carrello {
 		amount = 0;
 		System.out.println(amount);
 		System.out.println(amount);
+		System.out.println("verifica locale");
+
 
 	}
 
