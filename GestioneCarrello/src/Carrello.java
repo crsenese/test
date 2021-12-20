@@ -4,6 +4,8 @@ public class Carrello {
 
 	public Carrello() {
 		amount = 0;
+		System.out.println(amount);
+
 	}
 
 	
@@ -24,6 +26,5 @@ public class Carrello {
 		public void removeOneProduct() {
 			amount--;
 		}
-	
 
 }
