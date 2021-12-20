@@ -7,7 +7,12 @@ public class Carrello {
 		System.out.println(amount);
 		System.out.println(amount);
 		System.out.println("verifica locale");
+
 		System.out.println("verifica locale2");
+
+		System.out.println("verifica remota");
+
+
 
 
 	}
